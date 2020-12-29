@@ -558,7 +558,7 @@ mail1
 **72\. 中文nlp竞赛项目及代码汇总** [github](https://github.com/geekinglcq/CDCS)
 - 文本生成、文本摘要：Byte Cup 2018 国际机器学习竞赛
 - 知识图谱：瑞金医院MMC人工智能辅助构建知识图谱大赛
-- 视频识别 问答：2018之江杯全球人工智能大赛 ：视频识别&问答
+- 视频识别 问答：2018之江杯全球人工智能大赛：视频识别&问答
 
 **73\. 中文字符数据** [github](https://github.com/skishore/makemeahanzi)
 - 简/繁体汉字笔顺
@@ -632,6 +632,7 @@ mail1
 
 **103\. 中文NLP数据增强（EDA）工具** [github](https://github.com/zhanlaoban/eda_nlp_for_Chinese)
 - [ ] 英文NLP数据增强工具 [github](https://github.com/makcedward/nlpaug)
+- [ ] 一键中文数据增强工具 [github](https://github.com/425776024/nlpcda)
 
 **104\. 基于医药知识图谱的智能问答系统** [github](https://github.com/YeYzheng/KGQA-Based-On-medicine)
 
@@ -1178,3 +1179,70 @@ for word in misspelled:
 **334\. 基于Albert、Electra，用维基百科文本作为上下文的问答引擎** [github](https://github.com/renatoviolin/Question-Answering-Albert-Electra)
 
 **335\. Deepmatch：针对推荐、广告和搜索的深度匹配模型库** [github](https://github.com/shenweichen/DeepMatch)
+
+**336\. 语音工具合集**
+  - zhrtvc 好用的中文语音克隆兼中文语音合成系统 [github](https://github.com/KuangDD/zhrtvc)
+  - aukit 好用的语音处理工具箱，包含语音降噪、音频格式转换、特征频谱生成等模块 [github](https://github.com/KuangDD/aukit)
+  - phkit 好用的音素处理工具箱，包含中文音素、英文音素、文本转拼音、文本正则化等模块 [github](https://github.com/KuangDD/phkit)
+  - zhvoice 中文语音语料，语音更加清晰自然，包含8个开源数据集，3200个说话人，900小时语音，1300万字 [github](https://github.com/KuangDD/zhvoice)
+
+**337\. 多音字词典数据及代码** [github](https://github.com/mozillazg/phrase-pinyin-data)
+
+**338\. audio：面向语音行为检测、二值化、说话人识别、自动语音识别、情感识别等任务的音频标注工具** [github](https://github.com/midas-research/audino)
+
+**339\. 大规模、结构化、中英文双语的新冠知识图谱(COKG-19)** [link](http://openkg.cn/dataset/39801d1b-0b51-4cde-a06c-62def5a70563)
+  - COKG-19包含了505个概念、393个属性、26282个实例和32352个知识三元组，覆盖了医疗、健康、物资、防控、科研和人物等
+
+**340\. 132个知识图谱的数据集** [link](http://openkg.cn/dataset)
+  - 涵盖常识、城市、金融、农业、地理、气象、社交、物联网、医疗、娱乐、生活、商业、出行、科教
+
+**341\. 42GB的JD客服对话数据(CSDD)** [github](https://github.com/jd-aig/nlp_baai/tree/master/pretrained_models_and_embeddings)
+  - 12亿句子训练得到的word embedding
+
+**342\. 合成数据生成基准** [github](https://github.com/sdv-dev/SDGym)
+
+**343\. 汉字、词语、成语查询接口** [github](https://github.com/netnr/zidian/tree/206028e5ce9a608afc583820df8dc2d1d4b61781)
+
+**344\. 中文问题句子相似度计算比赛及方案汇总** [github](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task)
+
+**345\. Texthero：文本数据高效处理包，包括预处理、关键词提取、命名实体识别、向量空间分析、文本可视化等** [github](https://github.com/jbesomi/texthero)
+
+**346\. SIMPdf：Python写的简单PDF文件文字编辑器** [github](https://github.com/shashanoid/Simpdf)
+
+**347\. 《配色辞典》数据集** [github](https://github.com/mattdesl/dictionary-of-colour-combinations)
+
+**348\. carefree-learn：(PyTorch)表格数据集自动化机器学习(AutoML)包** [github](https://github.com/carefree0910/carefree-learn)
+
+**349\. token2index：与PyTorch/Tensorflow兼容的强大轻量词条索引库** [github](https://github.com/Kaleidophon/token2index)
+
+**350\. 开源对话式信息搜索平台** [github](https://github.com/microsoft/macaw)
+
+**351\. 对联数据** [github](https://github.com/wb14123/couplet-dataset)
+-  700,000 couplets, 超过70万对对联
+-  百度云盘：[链接](https://pan.baidu.com/s/1BBXBsoIbkyI5eBRUjnpcTw)  密码:egpt
+
+**352\. 基于Pytorch的Bert应用，包括命名实体识别、情感分析、文本分类以及文本相似度等** [github](https://github.com/rsanshierli/EasyBert)
+
+**353\. TaBERT：理解表格数据查询的新模型** [paper](https://scontent-hkt1-1.xx.fbcdn.net/v/t39.8562-6/106708899_597765107810230_1899215558892880563_n.pdf?_nc_cat=107&_nc_sid=ae5e01&_nc_ohc=4sN3TJwewSIAX8iliBD&_nc_ht=scontent-hkt1-1.xx&oh=eccb9795f027ff63be61ff4a5e337c02&oe=5F316505)
+
+**354\. Dakshina数据集：十二种南亚语言的拉丁/本地文字平行数据集合** [github](https://github.com/google-research-datasets/dakshina)
+
+**355\. NLP标注平台综述** [github](https://github.com/alvations/annotate-questionnaire)
+
+**356\. 封闭域微调表格检测** [github](https://github.com/holms-ur/fine-tuning)
+
+**357\. 深度学习情感文本语音合成** [github](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts)
+
+**358\. 中文写作校对工具** [github](https://xiezuocat.com/#/)
+
+**359\. 用Quora问题对训练的T5问题意译(Paraphrase)** [github](https://github.com/renatoviolin/T5-paraphrase-generation)
+
+**360\. 情境互动多模态对话挑战2020(DSTC9 2020)** [github](https://github.com/facebookresearch/simmc)
+
+**361\. nlpgnn：图神经网络自然语言处理工具箱** [github](https://github.com/kyzhouhzau/NLPGNN)
+
+**362\. Macadam：以Tensorflow(Keras)和bert4keras为基础，专注于文本分类、序列标注和关系抽取的自然语言处理工具包** [github](https://github.com/yongzhuo/Macadam)
+
+**363\. 用新版nlp库加载17GB+英文维基语料只占用9MB内存遍历速度2-3 Gbit/s** [github](https://gist.github.com/thomwolf/13ca2b2b172b2d17ac66685aa2eeba62)
+
+
